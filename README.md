@@ -34,7 +34,7 @@ Le feu ensuite se propage au fur et à mesure que le temps passe dans 8 directio
 
 ![code](https://user-images.githubusercontent.com/36737929/42052757-fdf6d9d0-7b0f-11e8-987b-c4d2f4a6df30.png)
 
-
+Cette partie du code nous présente justement comment le feu se propage d'une cellule déja en feu aux cellules d'en bas {i-1} pour un vent nul après avoir pris en considération plusieurs plusieurs facteurs et leur probabilités pour pouvoir calculer une probabilité générale qui devra dépasser un certain seuil pour que la cellule soit en feu. 
 
 
 
