@@ -25,9 +25,10 @@ Nous simulons notre modélisation dans une matrice. Les cellules de cette matric
 
 0: vide(blanc) __  1: arbre(vert) __  2: végétation(gris) __   3: feu(rouge)  __  4: cendre(noir)
 
+![](https://www.researchgate.net/profile/Maoteng_Zheng/publication/318869365/figure/fig3/AS:552848645267456@1508820796878/8-directions-in-the-neighborhood-of-a-pixel.png)
+
 Initialement, le modélisation se lance avec une seule cellule en feu choisi aléatoirement ensuite ça ce propage dans 8 directions différentes selon les paramètres suivant: La chaleur dans la foret, la presence de végétation, la direction de soufflement du vent et enfin un facteur de "chance" représentant les différents facteurs qu'on a pas pris en considération. 
 
-![](https://www.researchgate.net/profile/Maoteng_Zheng/publication/318869365/figure/fig3/AS:552848645267456@1508820796878/8-directions-in-the-neighborhood-of-a-pixel.png)
 
 
 
