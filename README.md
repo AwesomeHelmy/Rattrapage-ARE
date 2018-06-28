@@ -32,7 +32,8 @@ Nous simulons notre modélisation dans une matrice. Les cellules de cette matric
 Initialement, le modélisation se lance avec une seule cellule en feu choisi aléatoirement.
 Le feu ensuite se propage au fur et à mesure que le temps passe dans 8 directions différentes selon les paramètres suivants: La chaleur dans la foret, la presence de végétation, la direction de soufflement du vent et enfin un facteur de "chance" représentant les différents facteurs qu'on a pas pris en considération. 
 
-![](Rattrapage-ARE/bitch.png)
+![code](https://user-images.githubusercontent.com/36737929/42052757-fdf6d9d0-7b0f-11e8-987b-c4d2f4a6df30.png)
+
 
 
 
