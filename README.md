@@ -18,3 +18,5 @@ démonstration prête à l'emploi si nécessaire.
 Les incendies ont toujours constitué une menace pour les forêts. Aujourd'hui, avec le changement climatique en cours, le risque s'aggrave. Pour qu'un feu se déclenche, il est indispensable de réunir trois ingrédients : un combustible, un comburant et aussi une énergie d'activation, une source de chaleur. Dans le cas des feux de forêt, la végétation est le combustible, l'air et l'oxygène le comburant et la moindre étincelle peut alors suffire à apporter une énergie d'activation suffisante. 
 
 Notre but est alors de simuler la propagation d'un feu de foret afin d'observer son comportement en fonction de differents parametres comme la chaleur, la distance entre les arbres,...
+
+
