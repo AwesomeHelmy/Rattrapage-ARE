@@ -12,8 +12,8 @@ démonstration prête à l'emploi si nécessaire.
 
 # Projet Feu de Foret:
 
-![Alt text](relative/Rattrapage-ARE/6601470925124.jpg/to/img.jpg?raw=true "Title")
-
+![Alt text](Rattrapage-ARE/6601470925124.jpg)
+![Alt Text](url)
 # Présentation  du Sujet:
 
 Les incendies ont toujours constitué une menace pour les forêts. Aujourd'hui, avec le changement climatique en cours, le risque s'aggrave. Pour qu'un feu se déclenche, il est indispensable de réunir trois ingrédients : un combustible, un comburant et aussi une énergie d'activation, une source de chaleur. Dans le cas des feux de forêt, la végétation est le combustible, l'air et l'oxygène le comburant et la moindre étincelle peut alors suffire à apporter une énergie d'activation suffisante. 
