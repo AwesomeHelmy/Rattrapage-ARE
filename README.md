@@ -19,4 +19,17 @@ Les incendies ont toujours constitué une menace pour les forêts. Aujourd'hui, 
 
 Notre but est alors de simuler la propagation d'un feu de foret afin d'observer son comportement en fonction de differents parametres comme la chaleur, la distance entre les arbres,...
 
+# Règles de la modélisation :
+
+Nous simulons notre modélisation dans une matrice. Les cellules de cette matrice peuvent prendre les valeurs suivantes :
+0: vide(blanc) // 1: arbre(vert) // 2: végétation(gris) // 3: feu(rouge) // 4: cendre(noir)
+
+Initialement, le modélisation se lance avec une seule cellule en feu choisi aléatoirement ensuite ça ce propage dans 8 directions différentes selon les paramètres suivant: La chaleur dans la foret, la presence de végétation, la direction de soufflement du vent et enfin un facteur de "chance" représentant les différents facteurs qu'on a pas pris en considération. 
+
+![](https://www.researchgate.net/profile/Maoteng_Zheng/publication/318869365/figure/fig3/AS:552848645267456@1508820796878/8-directions-in-the-neighborhood-of-a-pixel.png)
+
+
+
+
+
 
