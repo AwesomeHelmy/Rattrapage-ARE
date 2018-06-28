@@ -23,7 +23,7 @@ Notre but est alors de simuler la propagation d'un feu de foret afin d'observer 
 
 Nous simulons notre modélisation dans une matrice. Les cellules de cette matrice peuvent prendre les valeurs suivantes :
 
-0: vide(blanc)    1: arbre(vert)    2: végétation(gris)    3: feu(rouge)    4: cendre(noir)
+0: vide(blanc) __  1: arbre(vert) __  2: végétation(gris) __   3: feu(rouge)  __  4: cendre(noir)
 
 Initialement, le modélisation se lance avec une seule cellule en feu choisi aléatoirement ensuite ça ce propage dans 8 directions différentes selon les paramètres suivant: La chaleur dans la foret, la presence de végétation, la direction de soufflement du vent et enfin un facteur de "chance" représentant les différents facteurs qu'on a pas pris en considération. 
 
