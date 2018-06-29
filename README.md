@@ -34,11 +34,15 @@ Le feu ensuite se propage au fur et à mesure que le temps passe dans 8 directio
 
 Cette partie du code nous présente justement comment le feu se propage d'une cellule déja en feu aux cellules d'en bas {i-1} pour un vent nul après avoir pris en considération plusieurs facteurs et leur probabilités pour pouvoir calculer une probabilité générale qui devra dépasser un certain seuil pour que la cellule soit en feu. 
 
+![untitled10](https://user-images.githubusercontent.com/36737929/42072647-e8ebf50a-7b61-11e8-8b34-3d4e3ee2848a.png)
 
 # Paramètres: 
 
 On a donc plusieurs paramètres:
--la chaleur, la chance aleatoire, la probabilite de feu selon le type de cellule (veg a veg ou veg a arbre,..) , mais le plus important de tout c'etait le paramètre du vent. 
+-la chaleur, la chance aléatoire, la probabilite de feu selon le type de cellule (veg a veg ou veg a arbre,..) , mais le plus important de tout c'etait le paramètre du vent. 
 
 ![chart](https://user-images.githubusercontent.com/36737929/42071977-86b23fdc-7b5e-11e8-9782-5749c486622f.png)
 
+On veut voir sur excel que le feu de foret qui brule le plus rapidement et s'etteind ainsi le plus rapidement est le feu ou le vent est present puisque le nombre de pas necessaire pour bruler la foret plus inferieure.
+# Problèmes:
+On a eu beaucoup de difficultés avec l'animation qui ne fonctionne pas. On a eu aussi certains resultats qui posent problemes ou le feu va se propager dans 2 directions et pas les deux autres comme par exemple dans le cas vu précédemment, ou le feu se propage au Nord et a l'Ouest mais pas au sud et l'Est alors que selon la modélisation, le feu devrait se répendre dans toutes les directions ensuite s'étteindre potentiellement dans les endroits ou la probabilité de feu est plus bas que le seuil.
