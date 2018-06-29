@@ -33,7 +33,8 @@ la chaleur, la chance aléatoire, la probabilite de feu selon le type de cellule
 ![chart](https://user-images.githubusercontent.com/36737929/42071977-86b23fdc-7b5e-11e8-9782-5749c486622f.png)
 
 On observe sur excel que le feu de foret qui brule le plus rapidement et s'etteind ainsi le plus rapidement est le feu ou le vent est present puisque le nombre de pas necessaire pour bruler la foret plus inferieure. 
-
+De meme, on observe que les effets de la chaleur sont les plus insignifiant du point de vue que ca change peut a rapidite a laquelle plus les arbres.
+Donc le paramètre clef de cette modélisation est le vent soit l'oxyegene qui est justement le comburant dans notre feu de foret et ce qui apparait donc logique.
 
 ![untitled10](https://user-images.githubusercontent.com/36737929/42072647-e8ebf50a-7b61-11e8-8b34-3d4e3ee2848a.png)
 
