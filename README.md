@@ -34,6 +34,11 @@ Le feu ensuite se propage au fur et à mesure que le temps passe dans 8 directio
 
 Cette partie du code nous présente justement comment le feu se propage d'une cellule déja en feu aux cellules d'en bas {i-1} pour un vent nul après avoir pris en considération plusieurs facteurs et leur probabilités pour pouvoir calculer une probabilité générale qui devra dépasser un certain seuil pour que la cellule soit en feu. 
 
+
 # Paramètres: 
 
-Après avoir comis 
+On a donc plusieurs paramètres:
+-la chaleur, la chance aleatoire, la probabilite de feu selon le type de cellule (veg a veg ou veg a arbre,..) , mais le plus important de tout c'etait le paramètre du vent. 
+
+![chart](https://user-images.githubusercontent.com/36737929/42071977-86b23fdc-7b5e-11e8-9782-5749c486622f.png)
+
